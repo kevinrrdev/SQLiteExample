@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLite Example</string>
+    <string name="tvNombres">Nombres</string>
+    <string name="tvTelefono">Teléfono</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="alertPregunta">¿Seguro quieres borrar este contacto?</string>
+    <string name="alertYes">Si, borrar.</string>
+    <string name="alertNo">No, regresar.</string>
+    <string name="titleEditarContacto">Edición de contacto</string>
+    <string name="btnTextEditar">Actualizar</string>
+    <string name="titleAgregarContacto">Agregar contacto</string>
+</resources>
